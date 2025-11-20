@@ -4,7 +4,8 @@ import matter from 'gray-matter';
 import { BookOpen, PlayCircle, Lock } from 'lucide-react';
 
 // Recarrega a home a cada hora (ou mude para 0 para tempo real)
-export const revalidate = 3600;
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
 
 export default async function Home() {
   
