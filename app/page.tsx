@@ -83,7 +83,7 @@ export default async function Home() {
 
       {/* FOOTER */}
       <footer className="border-t border-white/10 py-12 text-center text-gray-600 text-sm">
-        <p>© 2025 Megazord Press. Todos os direitos reservados.</p>
+        <p>© 2025 Megazord Pressing. Todos os direitos reservados.</p>
       </footer>
 
     </div>
